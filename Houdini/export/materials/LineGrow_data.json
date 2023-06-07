@@ -1,0 +1,22 @@
+{
+    "vat20_unity": [
+        {
+            "_doubleTex": "0", 
+            "_height": ".1", 
+            "_normData": "1", 
+            "_numOfFrames": "299", 
+            "_packNorm": "1", 
+            "_packPscale": "1", 
+            "_paddedX": "1.0", 
+            "_paddedY": "1.0", 
+            "_pivMax": "0", 
+            "_pivMin": "0", 
+            "_posMax": "5.491535", 
+            "_posMin": "-2.0775439", 
+            "_scaleMax": "1.0", 
+            "_scaleMin": "1.0", 
+            "_speed": "0.100334448161", 
+            "_width": ".1"
+        }
+    ]
+}
